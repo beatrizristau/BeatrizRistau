@@ -1,6 +1,6 @@
 <div align="left">
     <h1>Hi 👋, I'm Beatriz Ristau</h1>
-    <h3>I Recently graduated with a Bachelor's degree in Computer Science. I am currently Seeking for an entry level job.</h3>
+    <h3>I recently graduated with a Bachelor's degree in Computer Science. I am currently seeking for an entry level job.</h3>
 </div>
 
 <!-- profile views -->
